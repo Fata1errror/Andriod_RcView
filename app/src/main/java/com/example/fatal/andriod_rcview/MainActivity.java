@@ -14,6 +14,7 @@ import java.util.Random;
 
 import entity.Fruit;
 
+//
 public class MainActivity extends AppCompatActivity {
 
     private List<Fruit> fruitList = new ArrayList<>();
